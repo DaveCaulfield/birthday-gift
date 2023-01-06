@@ -1,13 +1,10 @@
-# co42c433c8366b53eed3f5ef7
+# Birthday GIFt site
 
-Quick start:
+This web site is built with HTML & CSS. It was created during my Scrimba Frontend career path journey.
 
-```
-$ npm install
-$ npm start
-````
+- The project was fun and deployed on Netlify [here](https://genuine-vacherin-114674.netlify.app/)
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
